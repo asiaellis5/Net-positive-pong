@@ -86,3 +86,10 @@ jasmine server
 
 
 See it live on [*Heroku*](http://net-positive.herokuapp.com/)
+
+## Sequence Diagram
+
+The below diagram shows an example interaction between application components on Arcade mode, where one of the paddles is moved by a bot. On Training mode there would be WebSocket calls made for the second bot also.
+
+
+<img src="./images/sequence_diagram.png">
