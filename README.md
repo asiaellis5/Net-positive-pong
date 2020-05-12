@@ -6,6 +6,8 @@ Our aim was to build a neural net that would learn to play the classic video gam
 
 __The Team:__ [*Asia Ellis*](https://github.com/asiaellis5), [*David Papamichael*](https://github.com/davidpaps), [*Jake Phillips*](https://github.com/Jakephillips55), [*Nicolas Raffray*](https://github.com/nicolasraffray), [*Tom Ratcliffe*](https://github.com/ratcliffetj)
 
+Please see the project hosted [*here*](http://net-positive.herokuapp.com/arcade/)
+
 
 ## Initial setup
 
